@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <Container version="2">
-  <Name>streetmerchant</Name>
-  <Repository>mitchellriley/streetmerchant</Repository>
-  <Registry>https://hub.docker.com/r/mitchellriley/streetmerchant</Registry>
+  <Name>streetmerchant-nightly</Name>
+  <Repository>ghcr.io/jef/streetmerchant:nightly</Repository>
+  <Registry>https://github.com/users/jef/packages/container/package/streetmerchant</Registry>
   <Network>bridge</Network>
   <MyIP/>
   <Shell>sh</Shell>
