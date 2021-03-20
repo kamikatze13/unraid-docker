@@ -35,7 +35,7 @@ To test notifications two methods exist:&#xD;
     <Mode>bridge</Mode>
     <Publish>
       <Port>
-        <HostPort>7239</HostPort>
+        <HostPort>7279</HostPort>
         <ContainerPort>8081</ContainerPort>
         <Protocol>tcp</Protocol>
       </Port>
